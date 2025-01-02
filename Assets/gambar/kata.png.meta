@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 8c8be4885ebd7c84388e0ed5ff5c04e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6951688538400528736
+    second: kata_0
+  - first:
+      213: -7584441262923810271
+    second: kata_1
+  - first:
+      213: 2109363112580112063
+    second: kata_2
+  - first:
+      213: 3536365285144380811
+    second: kata_3
+  - first:
+      213: -3793300497974262784
+    second: kata_4
+  - first:
+      213: 4058862803111917592
+    second: kata_5
+  - first:
+      213: 3847344871022334166
+    second: kata_6
+  - first:
+      213: -1484970569370071674
+    second: kata_7
+  - first:
+      213: -5405712650028528055
+    second: kata_8
+  - first:
+      213: -2132526573443571375
+    second: kata_9
+  - first:
+      213: -9217583665301395778
+    second: kata_10
+  - first:
+      213: -6814577153355295511
+    second: kata_11
+  - first:
+      213: -647839507597337734
+    second: kata_12
+  - first:
+      213: -5760778501427418288
+    second: kata_13
+  - first:
+      213: -3790017202623890471
+    second: kata_14
+  - first:
+      213: 8879484555520452100
+    second: kata_15
+  - first:
+      213: 3176031659715921284
+    second: kata_16
+  - first:
+      213: 3874250231332835067
+    second: kata_17
+  - first:
+      213: -1944151388844061436
+    second: kata_18
+  - first:
+      213: -6467266649929458832
+    second: kata_19
+  - first:
+      213: 5306736048523377527
+    second: kata_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kata_0
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 86
+        width: 727
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae1fd2f2349108488d61051f7abfe90
+      internalID: -956397656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cfefafd7cab94d940bd24be9676b4fe1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kata_0: -956397656
+      kata_1: -436930962
+      kata_10: 1098488142
+      kata_11: -2026688863
+      kata_12: 304084556
+      kata_13: 2011566107
+      kata_14: -2118127312
+      kata_15: -1710149389
+      kata_16: 66534842
+      kata_17: 1196216720
+      kata_18: -1073447692
+      kata_19: 372216613
+      kata_2: -1718949841
+      kata_20: 1477130205
+      kata_3: 528382041
+      kata_4: 1363380120
+      kata_5: 1388274189
+      kata_6: -596373955
+      kata_7: 743321931
+      kata_8: -2064973468
+      kata_9: 240453199
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
