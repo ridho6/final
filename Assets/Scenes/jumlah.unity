@@ -1220,7 +1220,7 @@ GameObject:
   - component: {fileID: 145769720}
   - component: {fileID: 145769721}
   m_Layer: 0
-  m_Name: jumlah
+  m_Name: judul
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
